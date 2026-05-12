@@ -1,7 +1,6 @@
 # Hybrid Explainable Framework for Stroke Prediction
 
 Hybrid Explainable Framework for Stroke Prediction is an advanced AI-powered system for early stroke prediction that combines machine learning, deep learning, and explainable AI techniques. This comprehensive framework enhances predictive accuracy while ensuring clinical interpretability for healthcare applications.
-> ⚠️ **Notice:** This project is currently under publication. Only the web-based interface and essential components are included for demonstration purposes. Full model architecture, dataset preprocessing scripts, and training configurations will be released post-publication.
 
 ## 📊 Data Analysis & Exploratory Data Analysis
 
