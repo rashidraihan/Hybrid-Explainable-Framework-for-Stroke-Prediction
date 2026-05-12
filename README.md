@@ -117,4 +117,4 @@ Our systematic approach encompasses:
 4. **Rigorous Evaluation**: Multi-faceted assessment including performance metrics and model interpretability
 5. **Clinical Validation**: Framework designed for healthcare professional review and practical application
 
-*© 2025 Raihan Rashid. All rights reserved.*
+*© 2026 Raihan Rashid. All rights reserved.*
